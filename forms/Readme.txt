@@ -1,2 +1,3 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+Name : Jaures ZOGBA
+email : jaureszogba@gmail.com
+Phone : +229 0145413233/ 0169698122
